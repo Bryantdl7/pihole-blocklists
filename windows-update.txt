@@ -1,0 +1,20 @@
+###windows update pihole blocklist###
+#
+#
+#This list is a work in progress - it will eventually be used to just block windows updates, so people can receive updates when they want to without making annoying registry edits, etc. 
+#
+#
+
+windowsupdate.microsoft.com
+update.microsoft.com
+windowsupdate.com
+download.windowsupdate.com
+download.microsoft.com
+wustat.windows.com
+ntservicepack.microsoft.com
+go.microsoft.com
+dl.delivery.mp.microsoft.com
+dl.delivery.mp.microsoft.com
+ctldl.windowsupdate.com
+stats.microsoft.com
+test.stats.update.microsoft.com

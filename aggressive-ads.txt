@@ -1,0 +1,21 @@
+#this file contains ads which are just outright insane at times. 
+#this is also an attempt to block innapropriate ads.
+#it also kills HTTPS DNS kinda, so yeah enjoy
+
+#1/20/2022
+
+use-application-dns.net
+creative.xxxjmp.com
+creative.xxxivjmp.com
+xxxjmp.com
+stripchat.com
+cdn.stripst.com
+b-us18.strpst.com
+sc-apps.com
+go.xxxjmp.com
+xxxivjmp.com
+strpst.com
+a.realsrv.com
+syndication.realsrv.com
+zociwodi.com
+a.adtng.com
