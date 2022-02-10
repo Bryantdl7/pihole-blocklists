@@ -1,3 +1,3 @@
 #this is a simple file which blocks some android TVs from getting updates. Tested on Dynalink 4k, and Onn 4K TV boxes. 
-
+#
 android.googleapis.com
