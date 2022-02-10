@@ -1,7 +1,8 @@
 ###windows update pihole blocklist###
 #
 #
-#This list is a work in progress - it will eventually be used to just block windows updates, so people can receive updates when they want to without making annoying registry edits, etc. 
+#This list is a work in progress
+#This will eventually be used to just block windows updates, so people can receive updates when they want to without making annoying registry edits, etc. 
 #
 #
 

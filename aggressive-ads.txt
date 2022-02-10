@@ -2,7 +2,7 @@
 #this is also an attempt to block innapropriate ads.
 #it also kills HTTPS DNS kinda, so yeah enjoy
 
-#1/20/2022
+#2/10/2022 
 
 use-application-dns.net
 creative.xxxjmp.com
