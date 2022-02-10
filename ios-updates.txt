@@ -1,4 +1,5 @@
 # iOS Update Blocklist
+#This isn't fully working yet, help is appreciated! 
 
 appldnld.apple.com 
 gdmf.apple.com 
