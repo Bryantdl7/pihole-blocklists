@@ -19,3 +19,4 @@ dl.delivery.mp.microsoft.com
 ctldl.windowsupdate.com
 stats.microsoft.com
 test.stats.update.microsoft.com
+slscr.update.microsoft.com
