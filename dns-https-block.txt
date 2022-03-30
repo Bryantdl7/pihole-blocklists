@@ -73,6 +73,7 @@ cloudflare-dns.com
 dns64.cloudflare-dns.com
 security.cloudflare-dns.com
 family.cloudflare-dns.com
+chrome.cloudflare-dns.com
 
 # Comcast
 doh.xfinity.com
