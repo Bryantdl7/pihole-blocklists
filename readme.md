@@ -2,4 +2,4 @@ Welcome! These are my self-maintained lists. I try and keep them up to date, but
 
 All of these lists can be found at https://b-9.cc/pihole - GitHub is simply used as the change tracking point. You really should go to the site to copy a URL. 
 
-Last list update occured: 3/30/22
+Last list update occured: 11/24/22
