@@ -198,6 +198,7 @@ resolver1-fs.opendns.com
 resolver2-fs.opendns.com
 resolver1.ipv6-sandbox.opendns.com
 resolver2.ipv6-sandbox.opendns.com
+dns.opendns.com
 
 # OSZX (PumpleX)
 dns.oszx.co
