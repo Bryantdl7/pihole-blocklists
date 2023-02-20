@@ -62,6 +62,7 @@ doh.captnemo.in
 # Cisco
 doh.opendns.com
 doh.familyshield.opendns.com
+dns.umbrella.com
 
 # Clean Browsing
 family-filter-dns.cleanbrowsing.org
