@@ -63,6 +63,7 @@ doh.captnemo.in
 doh.opendns.com
 doh.familyshield.opendns.com
 dns.umbrella.com
+doh.umbrella.com
 
 # Clean Browsing
 family-filter-dns.cleanbrowsing.org
