@@ -59,7 +59,14 @@ family.canadianshield.cira.ca
 # Captnemo
 doh.captnemo.in
 
-# Cisco
+# Cisco / OpenDNS
+resolver1.opendns.com
+resolver2.opendns.com
+resolver1-fs.opendns.com
+resolver2-fs.opendns.com
+resolver1.ipv6-sandbox.opendns.com
+resolver2.ipv6-sandbox.opendns.com
+dns.opendns.com
 doh.opendns.com
 doh.familyshield.opendns.com
 dns.umbrella.com
@@ -193,14 +200,7 @@ adblock.ny1.dns.nixnet.xyz
 uncensored.lux1.dns.nixnet.xyz
 adblock.lux1.dns.nixnet.xyz
 
-# OpenDNS
-resolver1.opendns.com
-resolver2.opendns.com
-resolver1-fs.opendns.com
-resolver2-fs.opendns.com
-resolver1.ipv6-sandbox.opendns.com
-resolver2.ipv6-sandbox.opendns.com
-dns.opendns.com
+
 
 # OSZX (PumpleX)
 dns.oszx.co
