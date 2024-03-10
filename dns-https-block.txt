@@ -148,6 +148,9 @@ doh.dns.sb
 resolver1.dyndnsinternetguide.com
 resolver2.dyndnsinternetguide.com
 
+#Firefox
+use-application-dns.net
+
 # FFmuc
 doh.ffmuc.net
 
