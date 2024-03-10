@@ -3,7 +3,7 @@
 ## To block DNS over TLS (DoT), block port 853
 ## This list has been created for security purpose ONLY. DoH by concept is a great idea, but already being abused.
 ## To be more efficient, you should also consider blocking DoH providers IP adresses
-## Last update : 12/18/23
+## Last update : 3/9/24
 
 #===================================================================
 
