@@ -15,6 +15,10 @@ mask.icloud.com
 mask-h2.icloud.com
 mask-api.fe.apple-dns.net
 gateway.fe.apple-dns.net
+gateway.fe2.apple-dns.net
+
+#wildcard of apple since they are getting more crafty and beginning to just spam hostnames 
+||apple-dns.net^
 
 
 # Aaflalo
