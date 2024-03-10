@@ -3,6 +3,7 @@
 ## To block DNS over TLS (DoT), block port 853
 ## This list has been created for security purpose ONLY. DoH by concept is a great idea, but already being abused.
 ## To be more efficient, you should also consider blocking DoH providers IP adresses
+## Did I miss a domain? Let me know! https://github.com/Bryantdl7/pihole-blocklists/issues
 ## Last update : 3/9/24
 
 #===================================================================
