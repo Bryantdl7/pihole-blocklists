@@ -15,11 +15,10 @@ doh.dns.apple.com.v.aaplimg.com
 mask.icloud.com
 mask-h2.icloud.com
 mask-api.fe.apple-dns.net
-gateway.fe.apple-dns.net
-gateway.fe2.apple-dns.net
+
 
 #wildcard of apple since they are getting more crafty and beginning to just spam hostnames 
-||apple-dns.net^
+#||apple-dns.net^ ##JUST KIDDING - THIS IS THE DOMAIN FOR FINDMY.... apple why..........
 
 
 # Aaflalo
