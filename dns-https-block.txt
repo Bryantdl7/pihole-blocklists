@@ -194,7 +194,7 @@ dns.dns-over-https.com
 
 # NextDNS
 dns.nextdns.io
-*. nextdns.io
+*.nextdns.io
 
 # NixNet
 uncensored.any.dns.nixnet.xyz
