@@ -10,3 +10,6 @@ https://raw.githubusercontent.com/Bryantdl7/pihole-blocklists/main/dns-https-blo
 
 Aggressive ADs (100% liklihood of these domains being a mess): 
 https://raw.githubusercontent.com/Bryantdl7/pihole-blocklists/main/aggressive-ads.txt
+
+
+I'm not great about checking my email, but I'm alive and I use these lists frequently both professionally and at home. If you ever want to text me you can do that through telegram via https://t.me/BRYANTDL7
