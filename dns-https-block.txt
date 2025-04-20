@@ -9,13 +9,13 @@
 #===================================================================
 
 #Add Manually:
-*.nextdns.io
-(\.|^)safedns\.com$
-(\.|^)verisign\.com$
-(\.|^)alternatedns\.com$
-(\.|^)gcore\.com$
-(\.|^)dns\.pub$
-(\.|^)114dns\.com$
+||nextdns.io^
+||safedns.com^
+||verisign.com^
+||alternatedns.com^
+||gcore.com^
+||dns.pub^
+||114dns.com^
 
 
 
