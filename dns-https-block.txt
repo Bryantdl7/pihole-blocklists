@@ -8,6 +8,16 @@
 
 #===================================================================
 
+#Add Manually:
+*.nextdns.io
+(\.|^)safedns\.com$
+(\.|^)verisign\.com$
+(\.|^)alternatedns\.com$
+(\.|^)gcore\.com$
+(\.|^)dns\.pub$
+(\.|^)114dns\.com$
+
+
 
 #Apple
 doh.dns.apple.com
@@ -194,7 +204,7 @@ dns.dns-over-https.com
 
 # NextDNS
 dns.nextdns.io
-*.nextdns.io
+
 
 # NixNet
 uncensored.any.dns.nixnet.xyz
@@ -278,3 +288,40 @@ rumpelsepp.org
 ordns.he.net
 rdns.faelix.net
 adfree.usableprivacy.net
+
+
+# Aruba.it
+doh.arubadns.it
+
+# UncensoredDNS
+doh.un-censoreddns.com
+doh.un-censoreddns.org
+
+# Tenta (deprecated, acquired by Avast but might still see usage)
+doh.tenta.io
+
+# Neustar UltraDNS (now part of Vercara)
+doh.ultradns.com
+
+# Yandex DNS
+doh.yandex.net
+
+# Necko / Firefox internal (beyond use-application-dns.net)
+doh.dns.mozilla.com
+
+# Aliyun (Extra domains for AliDNS)
+dns.aliyun.com
+
+# ControlD (by Windscribe VPN)
+doh.controld.com
+
+# AnonDNS
+anon.dns.digitale-gesellschaft.ch
+
+# ReThinkDNS
+doh.rethinkdns.com
+basic.rethinkdns.com
+
+# OpenNIC (community-based, decentralized DNS)
+# Not all servers offer DoH, but some do — e.g.:
+doh.opennic.glue
