@@ -9,6 +9,7 @@
 #===================================================================
 
 #wildcard pihole specific domains
+||avastdns.com^
 ||nextdns.io^
 ||safedns.com^
 ||verisign.com^
