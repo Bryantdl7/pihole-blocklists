@@ -1,14 +1,14 @@
-## Title : Bryant's DNS HTTPS Blocklist
+## Title : DNS HTTPS Blocklist
 ## Prevent program and malware to bypass DNS filter by using popular DoH services
 ## To block DNS over TLS (DoT), block port 853
-## This list has been created for security purpose ONLY. DoH by concept is a great idea, but already being abused.
+## This list has been created for security purpose ONLY. DoH by concept is a great idea, but is already being abused.
 ## To be more efficient, you should also consider blocking DoH providers IP adresses
 ## Did I miss a domain? Let me know! https://github.com/Bryantdl7/pihole-blocklists/issues
-## Last update : 2/13/25
+## Last update : see file modified date
 
 #===================================================================
 
-#Add Manually:
+#wildcard pihole specific domains
 ||nextdns.io^
 ||safedns.com^
 ||verisign.com^
@@ -16,6 +16,7 @@
 ||gcore.com^
 ||dns.pub^
 ||114dns.com^
+||dns.mullvad.net^
 
 
 
