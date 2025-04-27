@@ -1,4 +1,4 @@
-## Title : DNS HTTPS Blocklist
+## Title : DNS HTTPS Blocklist W/ 100% pihole compatibility and 90% unbound OPNSENSE
 ## Prevent program and malware to bypass DNS filter by using popular DoH services
 ## To block DNS over TLS (DoT), block port 853
 ## This list has been created for security purpose ONLY. DoH by concept is a great idea, but is already being abused.
