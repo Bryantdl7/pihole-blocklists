@@ -94,13 +94,8 @@ doh.cleanbrowsing.org
 
 # Cloudflare
 one.one.one.one
-mozilla.cloudflare-dns.com
-1dot1dot1dot1.cloudflare-dns.com
-cloudflare-dns.com
-dns64.cloudflare-dns.com
-security.cloudflare-dns.com
-family.cloudflare-dns.com
-chrome.cloudflare-dns.com
+||cloudflare-dns.com^
+
 
 # Comcast
 doh.xfinity.com
@@ -329,5 +324,3 @@ basic.rethinkdns.com
 doh.opennic.glue
 
 
-#Opera
-opera.cloudflare-dns.com
