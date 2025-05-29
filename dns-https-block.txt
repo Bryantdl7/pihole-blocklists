@@ -327,3 +327,7 @@ basic.rethinkdns.com
 # OpenNIC (community-based, decentralized DNS)
 # Not all servers offer DoH, but some do — e.g.:
 doh.opennic.glue
+
+
+#Opera
+opera.cloudflare-dns.com
