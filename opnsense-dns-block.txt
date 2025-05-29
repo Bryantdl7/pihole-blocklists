@@ -1,0 +1,331 @@
+## Title : DNS HTTPS Blocklist W/ 100% pihole compatibility and 90% unbound OPNSENSE
+## Prevent program and malware to bypass DNS filter by using popular DoH services
+## To block DNS over TLS (DoT), block port 853
+## This list has been created for security purpose ONLY. DoH by concept is a great idea, but is already being abused.
+## To be more efficient, you should also consider blocking DoH providers IP adresses
+## Did I miss a domain? Let me know! https://github.com/Bryantdl7/pihole-blocklists/issues
+## Last update : see file modified date
+
+#===================================================================
+
+#wildcard pihole specific domains
+*.avastdns.com
+*.nextdns.io
+*.safedns.com
+*.verisign.com
+*.alternatedns.com
+*.gcore.com
+*.dns.pub
+*.114dns.com
+*.dns.mullvad.net
+
+
+
+#Apple
+*.doh.dns.apple.com
+*.doh.dns.apple.com.v.aaplimg.com
+*.mask-api.fe.apple-dns.net
+
+
+#wildcard of apple since they are getting more crafty and beginning to just spam hostnames 
+#*.apple-dns.net ##JUST KIDDING - THIS IS THE DOMAIN FOR FINDMY.... apple why..........
+
+
+# Aaflalo
+*.dns.aaflalo.me
+*.dns-nyc.aaflalo.me
+
+# AdGuard
+*.dns.adguard.com
+*.dns-family.adguard.com
+
+# Alekberg
+*.dns.alekberg.net
+*.dns2.alekberg.net
+*.dnsse.alekberg.net
+
+# AliDNS
+*.alidns.com
+
+# Andrews & Arnold
+*.dns.aa.net.uk
+
+# Association 42l
+*.doh.42l.fr
+
+# AT&T
+dohtrial.att.net
+
+# BlahDNS
+*.blahdns.com
+
+
+# Brahma World
+*.dns.brahma.world
+
+# Canadian Shield
+*.private.canadianshield.cira.ca
+*.protected.canadianshield.cira.ca
+*.family.canadianshield.cira.ca
+
+# Captnemo
+*.doh.captnemo.in
+
+# Cisco / OpenDNS
+resolver1.opendns.com
+resolver2.opendns.com
+resolver1-fs.opendns.com
+resolver2-fs.opendns.com
+resolver1.ipv6-sandbox.opendns.com
+resolver2.ipv6-sandbox.opendns.com
+dns.opendns.com
+doh.opendns.com
+doh.familyshield.opendns.com
+dns.umbrella.com
+doh.umbrella.com
+
+# Clean Browsing
+family-filter-dns.cleanbrowsing.org
+adult-filter-dns.cleanbrowsing.org
+security-filter-dns.cleanbrowsing.org
+doh.cleanbrowsing.org
+
+# Cloudflare
+one.one.one.one
+mozilla.cloudflare-dns.com
+1dot1dot1dot1.cloudflare-dns.com
+cloudflare-dns.com
+dns64.cloudflare-dns.com
+security.cloudflare-dns.com
+family.cloudflare-dns.com
+chrome.cloudflare-dns.com
+
+# Comcast
+doh.xfinity.com
+
+# Comodo
+ns1.recursive.dnsbycomodo.com
+ns2.recursive.dnsbycomodo.com
+
+# Commons-host
+commons.host
+
+# ContainerPI
+dns.containerpi.com
+
+# Cox
+dohdot.coxlab.net
+
+# Crypto.sx
+doh.crypto.sx
+doh-ipv6.crypto.sx
+
+# Digitale Gesellschaft
+dns.digitale-gesellschaft.ch
+
+# Doh.li
+doh.li
+
+# DNScrypt (DoH)
+dns1.dnscrypt.ca
+dns2.dnscrypt.ca
+
+# DNSforge
+dnsforge.de
+
+# DNS home
+dns.dnshome.de
+
+# DNS lify
+doh.dnslify.com
+a.ns.dnslify.com
+b.ns.dnslify.com
+a.safe.ns.dnslify.com
+b.safe.ns.dnslify.com
+a.family.ns.dnslify.com
+b.family.ns.dnslify.com
+
+# DNS Seby
+doh.seby.io
+doh-2.seby.io
+
+# DNS.SB
+doh.dns.sb
+
+# Dyn
+resolver1.dyndnsinternetguide.com
+resolver2.dyndnsinternetguide.com
+
+#Firefox
+use-application-dns.net
+
+# FFmuc
+doh.ffmuc.net
+
+# Foundation for Applied Privacy
+doh.applied-privacy.net
+
+# GeekDNS
+dns.233py.com
+i.233py.com
+wdns.233py.com
+ndns.233py.com
+sdns.233py.com
+
+# Google
+dns.google
+google-public-dns-a.google.com
+google-public-dns-b.google.com
+dns64.dns.google
+
+# Hostux
+dns.hostux.net
+
+# Ibuki
+ibuki.cgnat.net
+
+# Ibksturm
+ibksturm.synology.me
+
+# Jcdns
+jcdns.fun
+
+# Lelux
+resolver-eu.lelux.fi
+
+# LibreDNS
+doh.libredns.gr
+
+# Mrkaran
+dns.mrkaran.dev
+
+# NekomimiRouter
+dns.dns-over-https.com
+
+# NextDNS
+dns.nextdns.io
+
+
+# NixNet
+uncensored.any.dns.nixnet.xyz
+adblock.any.dns.nixnet.xyz
+uncensored.lv1.dns.nixnet.xyz
+adblock.lv1.dns.nixnet.xyz
+uncensored.ny1.dns.nixnet.xyz
+adblock.ny1.dns.nixnet.xyz
+uncensored.lux1.dns.nixnet.xyz
+adblock.lux1.dns.nixnet.xyz
+
+
+
+# OSZX (PumpleX)
+dns.oszx.co
+dns.pumplex.com
+
+# Pi-DNS
+doh.centraleu.pi-dns.com
+doh.northeu.pi-dns.com
+doh.westus.pi-dns.com
+doh.eastus.pi-dns.com
+
+# PowerDNS
+doh.powerdns.org
+
+# Qua9
+dns.quad9.net
+dns9.quad9.net
+dns10.quad9.net
+dns11.quad9.net
+rpz-public-resolver1.rrdns.pch.net
+dns-nosec.quad9.net
+
+# Quad101
+dns.twnic.tw
+
+# Rubyfish
+v6.rubyfish.cn
+dns.rubyfish.cn
+ea-dns.rubyfish.cn
+uw-dns.rubyfish.cn
+
+# Secure DNS
+doh.securedns.eu
+ads-doh.securedns.eu
+
+
+#Spectrum DNS HTTPS
+doh-01.spectrum.com
+doh-02.spectrum.com
+doh-03.spectrum.com
+
+# Snopyta
+fi.doh.dns.snopyta.org
+
+# Switch
+dns.switch.ch
+
+# Tiarap
+doh.tiar.app
+doh.tiarap.org
+jp.tiar.app
+jp.tiarap.org
+
+# t53
+dns.t53.de
+
+# Xfinity (Comcast)
+doh.xfinity.com
+
+# Others
+dns.dnsoverhttps.net
+doh.dnswarden.com
+doh.appliedprivacy.net
+public.dns.iij.jp
+jp.gridns.xyz
+dns.flatuslifir.is
+odvr.nic.cz
+rumpelsepp.org
+ordns.he.net
+rdns.faelix.net
+adfree.usableprivacy.net
+
+
+# Aruba.it
+doh.arubadns.it
+
+# UncensoredDNS
+doh.un-censoreddns.com
+doh.un-censoreddns.org
+
+# Tenta (deprecated, acquired by Avast but might still see usage)
+doh.tenta.io
+
+# Neustar UltraDNS (now part of Vercara)
+doh.ultradns.com
+
+# Yandex DNS
+doh.yandex.net
+
+# Necko / Firefox internal (beyond use-application-dns.net)
+doh.dns.mozilla.com
+
+# Aliyun (Extra domains for AliDNS)
+dns.aliyun.com
+
+# ControlD (by Windscribe VPN)
+doh.controld.com
+
+# AnonDNS
+anon.dns.digitale-gesellschaft.ch
+
+# ReThinkDNS
+doh.rethinkdns.com
+basic.rethinkdns.com
+
+# OpenNIC (community-based, decentralized DNS)
+# Not all servers offer DoH, but some do — e.g.:
+doh.opennic.glue
+
+
+#Opera
+*.opera.cloudflare-dns.com
