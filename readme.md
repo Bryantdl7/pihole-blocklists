@@ -13,3 +13,9 @@ https://raw.githubusercontent.com/Bryantdl7/pihole-blocklists/main/aggressive-ad
 
 
 I'm not great about checking my email, but I'm alive and I use these lists frequently both professionally and at home. If you ever want to text me you can do that through telegram via https://t.me/BRYANTDL7
+
+
+
+
+
+HELP WANTED - Submit a pull request making these lists more efficient and if they work I will approve the request!
