@@ -12,7 +12,7 @@
 *.avastdns.com
 *.nextdns.io
 *.safedns.com
-*.verisign.com
+# - too broad... help wanted on actual domain *.verisign.com
 *.alternatedns.com
 *.gcore.com
 *.dns.pub
