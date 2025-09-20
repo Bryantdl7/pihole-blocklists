@@ -12,7 +12,7 @@
 ||avastdns.com^
 ||nextdns.io^
 ||safedns.com^
-||verisign.com^
+# help wanted, this is too broad but I am sure DOH is used on verisign. ||verisign.com^
 ||alternatedns.com^
 ||gcore.com^
 ||dns.pub^
